@@ -8,7 +8,7 @@ const teamMembers = [
   {
     id: 2,
     name: 'Nombre Completo Integrante 2',
-    role: 'Diseñador / Rol',
+    role: 'Diseñador /l',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=face',
   },
   {
