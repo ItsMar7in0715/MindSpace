@@ -13,7 +13,7 @@ const teamMembers = [
   },
   {
     id: 3,
-    name: 'Nombre Completo Integrante 3',
+    name: 'Nombre Completo ',
     role: 'Investigador / Rol',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face',
   },
